@@ -1,0 +1,26 @@
+.maidenhome:hover{
+    color: rgb(117, 228, 27); 
+ }
+ nav{
+     background-color: lightcoral;
+ }
+ nav:hover{
+     background-color:lightcoral;
+ }
+ label{
+     top: 0;
+ }
+ @media screen and (max-width: 400px){
+     footer img{
+         display: none;
+     }
+ }
+.footer{
+    height: 150px;
+}
+.social-icons{
+    
+    font-size: 20px;
+    background-color: lightcoral;
+    
+}
